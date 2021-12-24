@@ -1,0 +1,7 @@
+npm install
+
+run localhost:3000 ->
+run dev
+
+build ->
+npm run build
